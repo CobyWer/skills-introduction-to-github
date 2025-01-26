@@ -1,1 +1,1 @@
-Hello this is the file you told me to create hello.
+Welcome to my GitHub profile!
